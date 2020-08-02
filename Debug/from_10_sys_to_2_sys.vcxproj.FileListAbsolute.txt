@@ -1,0 +1,2 @@
+D:\Programming\Coursera\Yandex_cpp\1_week\if and circle\1_week_from_10_sys_to_2_sys\from_10_sys_to_2_sys\Debug\from_10_sys_to_2_sys.exe
+D:\Programming\Coursera\Yandex_cpp\1_week\if and circle\1_week_from_10_sys_to_2_sys\from_10_sys_to_2_sys\Debug\from_10_sys_to_2_sys.pdb
